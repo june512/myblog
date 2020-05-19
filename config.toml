@@ -1,0 +1,14 @@
+baseURL = "https://june512.github.io"
+languageCode = "kr-ko"
+title = "June's site"
+theme = "hugo-hello-programmer-theme"
+
+disqusShortname = "XXXXXXXXXXXXXXX"
+
+googleAnalytics = "UA-XXXXXXXXXX-X"
+
+paginate = 7
+
+[author]
+    name = "Kim Kang-il"
+    email = "kki6890k@gmail.com"
