@@ -3,11 +3,6 @@ title: "Ubuntu_git"
 date: 2020-05-19T17:15:23+09:00
 ---
 
----
-layout: post
-title: Ubuntu에서 git 정리
----
-
 # Ubuntu에서 git 설치
 
 ```
