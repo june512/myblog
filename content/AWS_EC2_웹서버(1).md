@@ -1,4 +1,3 @@
-# -*- encoding: utf-8 -*-
 ---
 title: "AWS_EC2_웹서버(1)"
 date: 2020-05-19T17:48:02+09:00
@@ -44,3 +43,5 @@ sudo apt-get update sudo apt-get install apache2
 ![993F4C4A5B5D39EA2F](https://user-images.githubusercontent.com/65329769/82172488-433a4580-9905-11ea-9329-481702b86e6c.jpg)
 
 출처 : <https://woodforest.tistory.com/279>
+
+<!-- # -*- encoding: utf-8 -*- -->
