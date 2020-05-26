@@ -9,9 +9,9 @@ date: 2020-05-21T12:47:08+09:00
 
 Docker Engine을 설치하려면 다음 Ubuntu 버전 중 하나의 64 비트 버전이 필요
 
-    -우분투 Eoan 19.10
-    -우분투 바이오닉 18.04 (LTS)
-    -우분투 제니 얼 16.04 (LTS)
+    - 우분투 Eoan 19.10
+    - 우분투 바이오닉 18.04 (LTS)
+    - 우분투 제니 얼 16.04 (LTS)
 
 
 ## 이전 버전 제거
@@ -110,8 +110,8 @@ $ sudo apt-get remove docker docker-engine docker.io containerd runc
 ```
 ## 다음 단계
 
-    -Linux의 설치 후 단계를 계속 하십시오 .
-    -Docker 로 개발 에서 주제를 검토하여 Docker 를 사용하여 새 애플리케이션을 빌드하는 방법을 학습하십시오.
+    - Linux의 설치 후 단계를 계속 하십시오 .
+    - Docker 로 개발 에서 주제를 검토하여 Docker 를 사용하여 새 애플리케이션을 빌드하는 방법을 학습하십시오.
 
 
 
